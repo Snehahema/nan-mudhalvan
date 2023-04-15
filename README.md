@@ -5,10 +5,10 @@ PROJECT TITTLE:
 periyar Arts College.
 
 #TEAM MEMBERS:
-     *D.Hemalatha
-     *B.Karunagaran
-     *A.Sneha
-     *M.Ranjitha
+*D.Hemalatha
+*B.Karunagaran
+*A.Sneha
+*M.Ranjitha
 
 https://youtu.be/QOmsslPw0V4
 
